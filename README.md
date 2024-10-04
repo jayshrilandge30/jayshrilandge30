@@ -35,11 +35,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
 
-<!-- [![Jayshri's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jayshrilandge30&theme=merko)](https://github.com/jayshrilandge30/github-readme-activity-graph) -->
-
-
-[![Jayshri's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayshrilandge30&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![@jayshrilandge30's Holopin board](https://holopin.me/jayshrilandge30)](https://holopin.io/@jayshrilandge30)
-
-<!-- [![jayshrilandge30's GitHub | Languages Over Time](https://stats.quine.sh/jayshrilandge30/languages-over-time?theme=dark)](https://quine.sh) -->
