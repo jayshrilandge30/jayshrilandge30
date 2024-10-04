@@ -53,6 +53,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshana-khedkar&show_icons=true&locale=en&layout=compact" alt="darshana-khedkar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayshrilandge30&show_icons=true&locale=en&layout=compact" alt="jayshrilandge30" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshana-khedkar&show_icons=true&locale=en" alt="darshana-khedkar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show_icons=true&locale=en" alt="jayshrilandge30" /></p>
