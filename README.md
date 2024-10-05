@@ -49,6 +49,30 @@
 <p><img align="center" alt="coding"width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshrilandge30&" alt="jayshrilandge30" /></p>
 
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Images Side by Side</title>
+    <style>
+        .image-container {
+            display: flex;
+            justify-content: center; /* Optional: centers the content horizontally */
+            gap: 20px; /* Optional: adds space between images */
+        }
+        .image-container img {
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img align="center" alt="coding" src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show_icons=true&locale=en" alt="jayshrilandge30" />
+        <img align="center" alt="coding" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshrilandge30&" alt="jayshrilandge30" />
+    </div>
+</body>
+</html>
+
+
 
 
 
