@@ -52,7 +52,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Images Side by Side</title>
+    <
     <style>
         .image-container {
             display: flex;
@@ -60,7 +60,7 @@
             gap: 20px; /* Optional: adds space between images */
         }
         .image-container img {
-            width: 300px;
+            width: 250px;
         }
     </style>
 </head>
