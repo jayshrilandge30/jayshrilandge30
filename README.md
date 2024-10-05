@@ -17,7 +17,7 @@
 
 <h1 align="center">Hi 👋, I'm Jayshri Landge</h1>
 <h3 align="center">I'm a passionate DevOps enthusiast with a strong foundation in Linux, Podman, and Kubernetes</h3>
-<img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<img align="right" alt="coding"width="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshrilandge30&label=Profile%20views&color=0e75b6&style=flat" alt="jayshrilandge30" /> </p>
 
 - 🌱 I’m currently learning **DevOps Tools:-Kubernetes (Orchestration), Ansible (Configuration Management), Git, Jenkins (CI/CD), AWS ,Docker,Podman**
