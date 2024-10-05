@@ -44,15 +44,15 @@
 
 
 
-<p>&nbsp;<img align="center"alt="coding"width="300"  src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show_icons=true&locale=en" alt="jayshrilandge30" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show_icons=true&locale=en" alt="jayshrilandge30" /></p>
 
 <p><img align="center" alt="coding"width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshrilandge30&" alt="jayshrilandge30" />
 
 </head>
 <body>
     <div class="image-container">
-        <img align="center" alt="coding" src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show_icons=true&locale=en" alt="jayshrilandge30" />
-        <img align="center" alt="coding" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshrilandge30&" alt="jayshrilandge30" />
+        <img align="center"alt="coding"width="300"  src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show_icons=true&locale=en" alt="jayshrilandge30" />
+        <img align="center" alt="coding"width="300"  src="https://github-readme-streak-stats.herokuapp.com/?user=jayshrilandge30&" alt="jayshrilandge30" />
     </div>
 </body>
 
