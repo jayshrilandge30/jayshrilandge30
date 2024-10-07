@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Jayshri Landge</h1>
 <h3 align="center">I'm a passionate DevOps enthusiast with a strong foundation in Linux, Podman, and Kubernetes</h3>
 
-<img align="right" alt="coding" width="300" src="https://designimages.appypie.com/aitools/text-animation/focusedGirl.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshana-khedkar" alt="darshana-khedkar" /></a> </p>
 
 
@@ -38,6 +38,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayshrilandge30&show_icons=true&locale=en&layout=compact" alt="jayshrilandge30" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show_icons=true&locale=en" alt="jayshrilandge30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshrilandge30&" alt="jayshrilandge30" /></p>
