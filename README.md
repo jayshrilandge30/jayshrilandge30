@@ -38,6 +38,11 @@
 
 
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayshrilandge30&show_icons=true&locale=en&layout=compact&theme=dark" alt="jayshrilandge30" />
+</p>
+
+
 
 <img align="center" width="47%"  src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github"/>
 
