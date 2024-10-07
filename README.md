@@ -1,5 +1,5 @@
 
-![logo](https://github.com/jayshrilandge30/jayshrilandge30/blob/main/Jayshri%20Banner.png)
+![logo](https://github.com/jayshrilandge30/jayshrilandge30/blob/main/Jayshri's%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Jayshri Landge</h1>
 <h3 align="center">I'm a passionate DevOps enthusiast with a strong foundation in Linux, Podman, and Kubernetes</h3>
