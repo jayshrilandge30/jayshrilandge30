@@ -43,4 +43,4 @@
 [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
-<p> <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayshrilandge30&show_icons=true&locale=en&layout=compact" alt="jayshrilandge30"/> </p>
+<p> <img alt="top langs" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayshrilandge30&show_icons=true&locale=en&layout=compact" alt="jayshrilandge30"/> </p>
