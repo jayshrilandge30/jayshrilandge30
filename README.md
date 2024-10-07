@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Jayshri Landge</h1>
 <h3 align="center">I'm a passionate DevOps enthusiast with a strong foundation in Linux, Podman, and Kubernetes</h3>
 
-<img align="right" alt="coding"width="300" src="<img align="right" alt="coding"width="300" src="[https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif](https://designimages.appypie.com/aitools/text-animation/focusedGirl.gif)">">
+<img align="right" alt="coding"width="300"  src="https://designimages.appypie.com/aitools/text-animation/focusedGirl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshrilandge30&label=Profile%20views&color=0e75b6&style=flat" alt="jayshrilandge30" /> </p>
 
