@@ -1,12 +1,15 @@
 
 ![logo](https://github.com/jayshrilandge30/jayshrilandge30/blob/main/Jayshri's%20Banner.png)
 
+
 <h1 align="center">Hi 👋, I'm Jayshri Landge</h1>
 <h3 align="center">I'm a passionate DevOps enthusiast with a strong foundation in Linux, Podman, and Kubernetes</h3>
 
 <img align="right" alt="coding" width="300" src="https://designimages.appypie.com/aitools/text-animation/focusedGirl.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshrilandge30 &label=Profile%20views&color=0e75b6&style=flat" alt="jayshrilandge30" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshrilandge30&label=Profile%20views&color=0e75b6&style=flat" alt="jayshrilandge30" /> </p>
+
+
 
 - 🌱 I’m currently learning **DevOps Tools:-Kubernetes (Orchestration), Ansible (Configuration Management), Git, Jenkins (CI/CD), AWS ,Docker,Podman**
 
