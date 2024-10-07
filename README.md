@@ -6,8 +6,7 @@
 <h3 align="center">I'm a passionate DevOps enthusiast with a strong foundation in Linux, Podman, and Kubernetes</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshana-khedkar" alt="darshana-khedkar" /></a> </p>
-
+<p <img align="right" alt="coding" width="300" src="https://designimages.appypie.com/aitools/text-animation/focusedGirl.gif"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshrilandge30&label=Profile%20views&color=0e75b6&style=flat" alt="jayshrilandge30" /> </p>
 
@@ -42,4 +41,18 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshrilandge30&" alt="jayshrilandge30" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show_icons=true&locale=en" alt="jayshrilandge30" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show_icons=true&theme=radical" /></p>
+
+
+
+
+
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
