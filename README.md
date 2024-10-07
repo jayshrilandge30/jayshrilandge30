@@ -41,7 +41,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshrilandge30&" alt="jayshrilandge30" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show_icons=true&theme=radical" /></p>
 
 
 
@@ -52,7 +52,3 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
