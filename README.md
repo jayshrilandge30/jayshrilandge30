@@ -39,5 +39,5 @@
 
 
 <img alt="top langs" align="left" width="47%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=jayshrilandge30&layout=compact)"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayshrilandge30)](https://github.com/jayshrilandge30/github-readme-stats)
 
