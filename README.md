@@ -6,7 +6,7 @@
 <h3 align="center">I'm a passionate DevOps enthusiast with a strong foundation in Linux, Podman, and Kubernetes</h3>
 
 
-<p <img align="right" alt="coding" width="300" src="https://designimages.appypie.com/aitools/text-animation/focusedGirl.gif"> </p>
+<img align="right" alt="coding" width="300" src="https://designimages.appypie.com/aitools/text-animation/focusedGirl.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshrilandge30&label=Profile%20views&color=0e75b6&style=flat" alt="jayshrilandge30" /> </p>
 
