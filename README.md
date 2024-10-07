@@ -6,6 +6,8 @@
 <h3 align="center">I'm a passionate DevOps enthusiast with a strong foundation in Linux, Podman, and Kubernetes</h3>
 
 <img align="right" alt="coding" width="300" src="https://designimages.appypie.com/aitools/text-animation/focusedGirl.gif">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshana-khedkar" alt="darshana-khedkar" /></a> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshrilandge30&label=Profile%20views&color=0e75b6&style=flat" alt="jayshrilandge30" /> </p>
 
