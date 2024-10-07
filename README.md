@@ -31,7 +31,7 @@
 
 
 
-<p> <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshrilandge30" alt="jayshrilandge30"/> </p>
+<p> <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshrilandge30&layout=pie" alt="jayshrilandge30"/> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayshrilandge30&show_icons=true&locale=en" alt="jayshrilandge30" /></p>
 
@@ -40,7 +40,7 @@
 <p>
   <img alt="top langs" align="left" width="47%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=jayshrilandge30&layout=compact)"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayshrilandge30)](https://github.com/jayshrilandge30/github-readme-stats)
-
+[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 <p> <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayshrilandge30&show_icons=true&locale=en&layout=compact" alt="jayshrilandge30"/> </p>
