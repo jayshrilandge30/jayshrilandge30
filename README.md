@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **jayshrilandge30@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/10pNGUMUHXWv3Bz1qRuUB_rEJ1UZGIZ-X/view?usp=sharing).
+- 📄 Know about my experiences (https://drive.google.com/file/d/1GH1Adb8jUaakLFpqd8tM-V_GW-tQQpKu/view?usp=sharing).
 
 - ⚡ Fun fact **I think My Smile reduces my stress😊😁**
 
