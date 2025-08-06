@@ -1,5 +1,5 @@
+![logo](https://raw.githubusercontent.com/jayshrilandge30/jayshrilandge30/main/Jayshri's%20Banner.png)
 
-![logo](https://github.com/jayshrilandge30/jayshrilandge30/blob/main/Jayshri's%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Jayshri Landge</h1>
