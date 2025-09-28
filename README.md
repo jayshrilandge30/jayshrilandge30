@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jayshri Landge</h1>
-<h3 align="center">I'm a passionate DevOps enthusiast with a strong foundation in Linux, Podman and Docker | RHCSA & DO188 Certified | Beginner in Kubernetes, AWS, Ansible, Git, Jenkins | Proficient in Python</h3>
+<h3 align="center">I'm a passionate DevOps enthusiast with a strong foundation in Linux, Podman and Docker, Kubernetes, AWS, Ansible, Git, Jenkins | RHCSA & DO188 Certified | Proficient in Python</h3>
 
 
 <img align="right" alt="coding" width="300" src="https://designimages.appypie.com/aitools/text-animation/focusedGirl.gif"> 
