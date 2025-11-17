@@ -12,9 +12,9 @@
 
 
 
-- 🌱 I’m currently learning **DevOps Tools:-Kubernetes (Orchestration), Ansible (Configuration Management), Git, Jenkins (CI/CD), AWS ,Docker,Podman**
+- 🌱 Currently learning Kubernetes and Ansible, and exploring new DevOps tools to enhance automation and cloud deployment skills.
 
-- 👯 I’m looking to collaborate on **to new oppotunities a dynamic IT role as a DevOps Engineer to contribute positively to the team and gain valuable experience**
+- 👯 Seeking DevOps Engineer opportunities to contribute effectively and gain valuable real-world experience.
 
 - 👨‍💻 All of my projects are available at [https://github.com/jayshrilandge30](https://github.com/jayshrilandge30)
 
