@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jayshri Landge</h1>
-<h3 align="center">I'm a passionate DevOps enthusiast with a strong foundation in Linux, Podman and Docker, Kubernetes, AWS, Ansible, Git, Jenkins | RHCSA & DO188 Certified | Proficient in Python</h3>
+<h3 align="center">I'm a DevOps Engineer with hands-on experience as an AWS DevOps Engineer Intern at Unplug Infinity Media Pvt. Ltd., where I worked on CI/CD pipelines, Docker-based deployments, AWS EC2 hosting, and Linux server operations. I have strong skills in Linux, AWS, Docker, Podman, Git, Jenkins, Ansible, Terraform (basic) and I'm RHCSA & DO188 certified, with good proficiency in Python.</h3>
 
 
 <img align="right" alt="coding" width="300" src="https://designimages.appypie.com/aitools/text-animation/focusedGirl.gif"> 
