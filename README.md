@@ -3,7 +3,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Jayshri Landge</h1>
-<h3 align="center">I'm a DevOps Engineer with hands-on experience as an AWS DevOps Engineer Intern at Unplug Infinity Media Pvt. Ltd., where I worked on CI/CD pipelines, Docker-based deployments, AWS EC2 hosting, and Linux server operations. I have strong skills in Linux, AWS, Docker, Podman, Git, Jenkins, Ansible, and I'm RHCSA & DO188 certified, with good proficiency in Python.</h3>
+<h3 align="center">Red Hat Certified Computer Science graduate and DevOps enthusiast with strong skills in Linux, cloud computing, and
+containerization. Eager to contribute to infrastructure automation, CI/CD, and cloud operations in a dynamic IT environment.</h3>
 
 
 <img align="right" alt="coding" width="300" src="https://designimages.appypie.com/aitools/text-animation/focusedGirl.gif"> 
