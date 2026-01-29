@@ -21,7 +21,7 @@ containerization. Eager to contribute to infrastructure automation, CI/CD, and c
 
 - 📫 How to reach me **jayshrilandge30@gmail.com**
 
-- 📄 Know about my experiences ().
+- 📄 Know about my experiences (https://drive.google.com/file/d/1Ee__DpYb9YiQRO2L6jJ4gaybHQgqKjco/view?usp=drive_link).
 
 - ⚡ Fun fact **I think My Smile reduces my stress😊😁**
 
